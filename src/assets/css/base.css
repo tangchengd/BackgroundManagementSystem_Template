@@ -1,0 +1,25 @@
+h1,h2,h3,h4,p,ui,li{
+    margin: 0;
+    padding: 0;
+}
+ui{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+body{
+    font-style: 14px;
+    
+    
+}
+/* 高度配置 */
+html,body,#app{
+    height: 100%;
+}
